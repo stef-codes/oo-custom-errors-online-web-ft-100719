@@ -17,6 +17,9 @@ end
 
 # Add the following two lines:
   class PartnerError < StandardError
+    
+    
+    
   end
 end
 
