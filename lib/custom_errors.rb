@@ -17,9 +17,7 @@ end
 
 # Add the following two lines:
   class PartnerError < StandardError
-    
-    
-    
+    "you must give the get_married method an argument of an instance of the person class!"
   end
 end
 
